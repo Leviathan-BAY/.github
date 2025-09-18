@@ -27,7 +27,7 @@ MVP focus: ship fast, look polished, scale later.
 
 # Hermit Finance 
 <p align="center">
-  <img width="1024" height="1024" alt="Hermit" src="https://github.com/user-attachments/assets/08b0fdee-7973-413a-89f5-07f3bb7bd462" />
+<img width="306" height="306" alt="Hermit" src="https://github.com/user-attachments/assets/00719eef-c05f-4976-b165-b32e7adefb07" />
 
 </p>  
 
