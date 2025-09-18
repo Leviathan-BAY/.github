@@ -1,4 +1,5 @@
 # Leviathan — Web3 Game Launchpad
+![Uploading 귀여운 바다 괴물 레비아탄.png…]()
 
 Creators build. Players play. The chain pays.
 A sleek, creator-first web3 game launchpad on Sui — where UGC, fair finance, and awesome gameplay meet.
