@@ -40,6 +40,10 @@ SUI ↔ hSui swap (deposit / mint / burn / withdraw).
 No-code game builder with templates (incl. 5×5 customizable Yut-like board): drag & drop, tile properties, rule editor, testplay.
 
 # Splash Zone 
+<p align="center">
+<img width="500" height="500" alt="Splash Zone" src="https://github.com/user-attachments/assets/79504009-e349-4a84-b873-aeb8a6a87cfe" />
+</p>  
+
 Game gallery, matchmaking, PvP with SUI staking and on-chain settlement (Match contract).
 
 Off-chain truth + on-chain settlement — gameplay runs off-chain; signed final states submitted for trustful settlement.
