@@ -26,8 +26,9 @@ MVP focus: ship fast, look polished, scale later.
 🧭 # Key Features (MVP)
 
 # Hermit Finance 
-<p align="center"
-  <img width="306" height="306" alt="Gemini_Generated_Image_a13bvga13bvga13b" src="https://github.com/user-attachments/assets/8b8850d3-ae19-49d7-a5d2-b7ab906bae5e" />
+<p align="center">
+  <img width="1024" height="1024" alt="Hermit" src="https://github.com/user-attachments/assets/08b0fdee-7973-413a-89f5-07f3bb7bd462" />
+
 </p>  
 
 SUI ↔ hSui swap (deposit / mint / burn / withdraw).
