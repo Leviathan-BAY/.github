@@ -28,12 +28,15 @@ MVP focus: ship fast, look polished, scale later.
 # Hermit Finance 
 <p align="center">
 <img width="306" height="306" alt="Hermit" src="https://github.com/user-attachments/assets/00719eef-c05f-4976-b165-b32e7adefb07" />
-
 </p>  
 
 SUI ↔ hSui swap (deposit / mint / burn / withdraw).
 
-# Salmon Launchpad
+# Humpback Launchpad
+<p align="center">
+<img width="306" height="306" alt="Humpback" src="https://github.com/user-attachments/assets/3e3bc0e0-6125-4f37-8ad3-8cf84ca1f04f" />
+</p>  
+
 No-code game builder with templates (incl. 5×5 customizable Yut-like board): drag & drop, tile properties, rule editor, testplay.
 
 # Splash Zone 
