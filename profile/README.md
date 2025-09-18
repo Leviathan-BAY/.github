@@ -1,6 +1,6 @@
 # Leviathan — Web3 Game Launchpad
 <p align="center">
-  <img width="102" height="156" alt="image" src="https://github.com/user-attachments/assets/fabda521-ab84-4926-b030-5fd56a07fcc5" />
+  <img width="306" height="468" alt="image" src="https://github.com/user-attachments/assets/fabda521-ab84-4926-b030-5fd56a07fcc5" />
 </p>
 
 Creators build. Players play. The chain pays.
@@ -26,7 +26,9 @@ MVP focus: ship fast, look polished, scale later.
 🧭 # Key Features (MVP)
 
 # Hermit Finance 
-<img width="102.4" height="102.4" alt="Gemini_Generated_Image_a13bvga13bvga13b" src="https://github.com/user-attachments/assets/8b8850d3-ae19-49d7-a5d2-b7ab906bae5e" />
+<p align="center"
+  <img width="306" height="306" alt="Gemini_Generated_Image_a13bvga13bvga13b" src="https://github.com/user-attachments/assets/8b8850d3-ae19-49d7-a5d2-b7ab906bae5e" />
+</p>  
 
 SUI ↔ hSui swap (deposit / mint / burn / withdraw).
 
